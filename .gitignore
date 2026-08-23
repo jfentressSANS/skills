@@ -1,0 +1,5 @@
+# Never commit real credential files — only the *.example templates ship.
+*.env
+!*.env.example
+read.env
+write.env

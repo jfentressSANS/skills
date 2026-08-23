@@ -22,3 +22,10 @@ Skills here are copies for sharing and review — installed skills live locally 
 | Skill | Category | Status |
 |---|---|---|
 | [account-plan](sales/account-plan/SKILL.md) | sales | active |
+| [hermes](sales/hermes/SKILL.md) | sales | active |
+| [sf-campaign](sales/sf-campaign/SKILL.md) | sales | active |
+| [sf-contact-create](sales/sf-contact-create/SKILL.md) | sales | active |
+
+## Setup convention
+
+Every published skill opens with a **Setup** section — the only install-specific values (org alias, instance URL, key file paths, defaults) live there, and the rest of the skill references them. Credentials are never stored in a skill: env files stay local (`*.env` is gitignored here; only `*.env.example` templates ship).
