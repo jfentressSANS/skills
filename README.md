@@ -25,6 +25,8 @@ Skills here are copies for sharing and review — installed skills live locally 
 | [hermes](sales/hermes/SKILL.md) | sales | active |
 | [sf-campaign](sales/sf-campaign/SKILL.md) | sales | active |
 | [sf-contact-create](sales/sf-contact-create/SKILL.md) | sales | active |
+| [sfdc-account-plan-builder](sales/sfdc-account-plan-builder/SKILL.md) | sales | active |
+| [skill-qa](skill-qa/SKILL.md) | meta | active |
 
 ## Setup convention
 
